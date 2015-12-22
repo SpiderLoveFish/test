@@ -1,0 +1,7 @@
+D:\wp\Codematic2\code\test\DBUtility\bin\Debug\Spider.DBUtility.dll
+D:\wp\Codematic2\code\test\DBUtility\bin\Debug\Spider.DBUtility.pdb
+D:\wp\Codematic2\code\test\DBUtility\bin\Debug\MySql.Data.dll
+D:\wp\Codematic2\code\test\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\wp\Codematic2\code\test\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\wp\Codematic2\code\test\DBUtility\obj\Debug\Spider.DBUtility.dll
+D:\wp\Codematic2\code\test\DBUtility\obj\Debug\Spider.DBUtility.pdb

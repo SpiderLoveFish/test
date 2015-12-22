@@ -1,0 +1,10 @@
+D:\wp\Codematic2\code\test\BLL\bin\Debug\Spider.BLL.dll
+D:\wp\Codematic2\code\test\BLL\bin\Debug\Spider.BLL.pdb
+D:\wp\Codematic2\code\test\BLL\bin\Debug\Maticsoft.Common.dll
+D:\wp\Codematic2\code\test\BLL\bin\Debug\Spider.DAL.dll
+D:\wp\Codematic2\code\test\BLL\bin\Debug\Spider.Model.dll
+D:\wp\Codematic2\code\test\BLL\bin\Debug\Spider.DAL.pdb
+D:\wp\Codematic2\code\test\BLL\bin\Debug\Spider.Model.pdb
+D:\wp\Codematic2\code\test\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\wp\Codematic2\code\test\BLL\obj\Debug\Spider.BLL.dll
+D:\wp\Codematic2\code\test\BLL\obj\Debug\Spider.BLL.pdb
